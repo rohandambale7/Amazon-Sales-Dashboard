@@ -1,5 +1,10 @@
 # Amazon-Sales-Dashboard
 
+Designed an interactive dashboard for Amazon sales analysis, covering Sales Overview and Product Analysis. 
+• Utilized bar charts, key influencers, and smart narratives to uncover insights. 
+• Analyzed sales trends, customer behavior, and product performance to drive data-driven decisions. 
+• Tools Used: PowerBI 
+
 SCREEEN SHOT
 
 ![image](https://github.com/user-attachments/assets/81b0281c-9cdf-4d52-b475-047709112e51)
